@@ -1,0 +1,10 @@
+*{
+    background-color: darkslategrey;
+    color: white;
+    text-align: center;
+}
+
+.movie-image {
+    display: block;
+    margin: 0 auto;
+}
